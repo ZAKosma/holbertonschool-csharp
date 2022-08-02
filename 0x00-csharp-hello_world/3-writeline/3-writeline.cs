@@ -1,6 +1,8 @@
-class ZProgram
+using System;
+
+internal class ZProgram
 {
-	static void Main(string[] args)
+	public static void Print()
 	{
 		Console.WriteLine("Programming is like building a multilingual puzzle");
 		return;
