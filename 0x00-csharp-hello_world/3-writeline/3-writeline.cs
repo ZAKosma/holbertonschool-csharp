@@ -1,5 +1,3 @@
-using System;
-
 internal class ZProgram
 {
 	public static void Print()
