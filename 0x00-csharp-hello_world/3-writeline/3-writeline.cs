@@ -1,6 +1,6 @@
-internal class ZProgram
+class ZProgram
 {
-	public static void Print()
+	public void Print()
 	{
 		Console.WriteLine("Programming is like building a multilingual puzzle");
 		return;
