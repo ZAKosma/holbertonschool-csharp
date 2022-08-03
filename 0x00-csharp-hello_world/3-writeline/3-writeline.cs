@@ -1,8 +1,12 @@
-class ZProgram
+using System;
+
+namespace _3_writeline
 {
-	public void Print()
-	{
-		Console.WriteLine("Programming is like building a multilingual puzzle");
-		return;
-	}
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("\"Programming is like building a multilingual puzzle");
+        }
+    }
 }
